@@ -8,10 +8,6 @@ on:
       - sc-*
     tags:
       - 'v*.*.*'
-  pull_request:
-    branches:
-      - master
-      - main
 
 env:
   REGISTRY: ghcr.io
