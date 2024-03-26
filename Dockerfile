@@ -1,3 +1,3 @@
 FROM ruby:3.3.0
 
-RUN "hello world"
+RUN "echo 'hello world'"
