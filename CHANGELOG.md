@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Protozoan1369/test2/compare/v1.0.0...v1.0.1) (2024-03-26)
+
+
+### Bug Fixes
+
+* don't build the docker img on master, only on tags ([903bf6f](https://github.com/Protozoan1369/test2/commit/903bf6f9ae969dec6313ff9453bb13e52fdfb0d6))
+
 ## 1.0.0 (2024-03-26)
 
 
